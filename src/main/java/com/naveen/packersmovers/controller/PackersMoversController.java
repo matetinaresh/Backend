@@ -30,7 +30,7 @@ public class PackersMoversController {
         
         
         @GetMapping("/ping")
-        public String ping() {  return "this is the batch11 " ;
+        public String ping() {  return "Its a updated Backend server" ;
         			
         }
 
