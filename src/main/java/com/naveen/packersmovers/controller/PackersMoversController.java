@@ -30,7 +30,7 @@ public class PackersMoversController {
         
         
         @GetMapping("/ping")
-        public String ping() {  return "sonarqube analysis with in jenkins is succeded:success" ;
+        public String ping() {  return "backend server deploy success" ;
         			
         }
 
