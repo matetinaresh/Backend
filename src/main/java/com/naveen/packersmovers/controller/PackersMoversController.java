@@ -30,7 +30,7 @@ public class PackersMoversController {
         
         
         @GetMapping("/ping")
-        public String ping() {  return "backend server deploy  successfull" ;
+        public String ping() {  return "backend server successfull" ;
         			
         }
 
