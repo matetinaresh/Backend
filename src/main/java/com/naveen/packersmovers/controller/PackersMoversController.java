@@ -30,7 +30,7 @@ public class PackersMoversController {
         
         
         @GetMapping("/ping")
-        public String ping() {  return "backend server deploy success using the webhook concept" ;
+        public String ping() {  return "backend server deploy include sonarqube analysis using the webhook concept" ;
         			
         }
 
